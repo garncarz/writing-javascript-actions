@@ -8,7 +8,7 @@ inputs:
     description: 'This will become the body of the created issue'
 
   issue-title:
-    description: 'Every issue needs a title, it's nice to supply one, even though you could do this dynamically within your code'
+    description: "Every issue needs a title, it's nice to supply one, even though you could do this dynamically within your code"
     default: 'A joke for you'
     required: true
 
